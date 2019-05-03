@@ -1,4 +1,4 @@
-resolver: lts-13.12
+resolver: nightly-2019-05-01
 name: luna
 
 packages:
